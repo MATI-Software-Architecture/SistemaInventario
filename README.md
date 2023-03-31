@@ -42,6 +42,6 @@ Click `RUN IN LOCAL MODE` in the bottom left to quickly demo/test.
 - [Config/Custom field customization](./docs/config.schema.md)
 - [How I use StoreDown](./docs/system.md)
 - [Sub Reddit](https://www.reddit.com/r/storedown/)
-- [Like us on Alternative To][alternativeto]
+
 
 
